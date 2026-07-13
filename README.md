@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AEX-302&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F&color=8b5cf6&style=flat-square" alt="Просмотры профиля"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/%D0%9B%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20(MSK)-0ea5e9?style=flat-square" alt="Локация"/>
+  <img src="https://img.shields.io/badge/%D0%9B%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%20(MSK)-0ea5e9?style=flat-square" alt="Локация"/>
   &nbsp;
   <img src="https://img.shields.io/badge/%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8-English%20%2F%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-8b5cf6?style=flat-square" alt="Языки"/>
   &nbsp;
@@ -25,7 +25,7 @@
 
 <p align="center">
 <b>Беру идею и довожу её до рабочего, задеплоенного MVP сам — бэкенд, фронтенд и инфраструктура.</b><br/>
-Fullstack-инженер с продуктовым мышлением, из Москвы.
+Fullstack-инженер с продуктовым мышлением, из Волгограда.
 </p>
 
 - **Самоучка** — примерно за год прошёл путь с нуля до запуска **распределённой, устойчивой к цензуре VPN-платформы**.
@@ -44,7 +44,6 @@ Fullstack-инженер с продуктовым мышлением, из Мо
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/Aiogram%203-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram"/>
   <img src="https://img.shields.io/badge/asyncio-1BA39C?style=for-the-badge" alt="asyncio"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
@@ -52,8 +51,6 @@ Fullstack-инженер с продуктовым мышлением, из Мо
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" alt="REST API"/>
   <img src="https://img.shields.io/badge/WebSockets-35495E?style=for-the-badge" alt="WebSockets"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </p>
 
 <p align="center"><sub><b>Базы данных</b></sub></p>
@@ -74,7 +71,6 @@ Fullstack-инженер с продуктовым мышлением, из Мо
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
@@ -86,8 +82,6 @@ Fullstack-инженер с продуктовым мышлением, из Мо
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/asyncssh-1BA39C?style=for-the-badge" alt="asyncssh"/>
 </p>
 
@@ -109,6 +103,7 @@ Fullstack-инженер с продуктовым мышлением, из Мо
   <img src="https://img.shields.io/badge/User%20Research-8B5CF6?style=for-the-badge" alt="User Research"/>
   <img src="https://img.shields.io/badge/Metrics%20%26%20KPIs-0ea5e9?style=for-the-badge" alt="Metrics & KPIs"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F" alt="Miro"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
@@ -166,7 +161,6 @@ Fullstack-инженер с продуктовым мышлением, из Мо
   <img src="https://raw.githubusercontent.com/AEX-302/AEX-302/output/github-snake-dark.svg" alt="Contribution snake"/>
 </p>
 -->
-
 
 ---
 
