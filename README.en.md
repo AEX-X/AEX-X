@@ -161,9 +161,12 @@ Fullstack engineer with a product brain, based in Moscow.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AEX-302&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=22d3ee&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity graph"/>
 </p>
 
+<!-- Contribution snake appears here once GitHub Actions is enabled for the account and the "Generate Contribution Snake" workflow runs.
 <p align="center">
   <img src="https://raw.githubusercontent.com/AEX-302/AEX-302/output/github-snake-dark.svg" alt="Contribution snake"/>
 </p>
+-->
+
 
 ---
 
