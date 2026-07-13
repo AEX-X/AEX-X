@@ -113,12 +113,14 @@ I know backend, frontend and infrastructure not in theory — I've built them by
   <img src="https://img.shields.io/badge/httpx-2A6DB2?style=for-the-badge" alt="httpx"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" alt="REST API"/>
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/>
 </p>
 
 <p align="center"><sub>Data</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
 </p>
 
 <p align="center"><sub>Frontend</sub></p>
