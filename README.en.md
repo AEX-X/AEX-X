@@ -27,12 +27,12 @@
 
 <p align="center">
 <b>A product manager who can actually build the product.</b><br/>
-I understand backend, frontend and infrastructure not in theory — I've built them by hand. Technical PM based in Volgograd.
+I know backend, frontend and infrastructure not in theory — I've built them by hand. Technical PM based in Volgograd.
 </p>
 
-- **Primary role — Product Manager:** I own vision, metrics and priorities, and I speak the same language as the engineers. Also **open to fullstack development** (backend or frontend).
+- **My default role is Product Manager:** I own vision, metrics and priorities, and I speak the engineers' language. I take a **backend / fullstack developer** role only as a fallback — when the team needs extra hands.
 - **Self-taught** — in about a year, from zero to a **distributed, censorship-resistant VPN platform** (5 services, an SSH-orchestrated server fleet, verified down to a real phone) and a **production Telegram funnel** with conversion analytics.
-- I understand and can own **backend, frontend and infra** — so as a PM I make calls that are actually shippable on time, not just on paper.
+- **I know engineering from the inside** — so as a PM I set realistic scope and timelines, cut what can't ship, and can back the team up with code when needed.
 - **Product thinking in practice:** traffic-source tracking and a click→application metric, honest scope prioritization, and ADRs — the reasons behind the key decisions written down.
 - **AI is a working tool:** I build MVPs on OpenAI / Claude APIs and practice AI-assisted development.
 
@@ -80,11 +80,24 @@ I understand backend, frontend and infrastructure not in theory — I've built t
 
 ---
 
-<h2 align="center">TECH STACK</h2>
+<h2 align="center">STACK &amp; COMPETENCIES</h2>
 
-<p align="center"><sub>Split honestly: <b>Core</b> — what I confidently build with · <b>In my toolkit</b> — from projects I'm open-sourcing · <b>Learning</b> — where I'm growing</sub></p>
+<p align="center"><sub>Split honestly: <b>Core</b> — what I confidently work with · <b>In my toolkit</b> — from projects I'm open-sourcing · <b>Learning</b> — where I'm growing</sub></p>
 
 <p align="center"><b>CORE</b></p>
+
+<p align="center"><sub>Product</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Product%20Discovery-8B5CF6?style=for-the-badge" alt="Product Discovery"/>
+  <img src="https://img.shields.io/badge/Conversion%20Analytics-0ea5e9?style=for-the-badge" alt="Conversion Analytics"/>
+  <img src="https://img.shields.io/badge/Metrics%20%26%20KPIs-8B5CF6?style=for-the-badge" alt="Metrics & KPIs"/>
+  <img src="https://img.shields.io/badge/Unit%20Economics-0ea5e9?style=for-the-badge" alt="Unit Economics"/>
+  <img src="https://img.shields.io/badge/Roadmapping-8B5CF6?style=for-the-badge" alt="Roadmapping"/>
+  <img src="https://img.shields.io/badge/PRD%20%2F%20ADRs-0ea5e9?style=for-the-badge" alt="PRD / ADRs"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F" alt="Miro"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+</p>
 
 <p align="center"><sub>Backend</sub></p>
 <p align="center">
@@ -132,19 +145,6 @@ I understand backend, frontend and infrastructure not in theory — I've built t
   <img src="https://img.shields.io/badge/HAProxy-8B5CF6?style=for-the-badge" alt="HAProxy"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge" alt="Makefile"/>
-</p>
-
-<p align="center"><sub>Product</sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Product%20Discovery-8B5CF6?style=for-the-badge" alt="Product Discovery"/>
-  <img src="https://img.shields.io/badge/Conversion%20Analytics-0ea5e9?style=for-the-badge" alt="Conversion Analytics"/>
-  <img src="https://img.shields.io/badge/Metrics%20%26%20KPIs-8B5CF6?style=for-the-badge" alt="Metrics & KPIs"/>
-  <img src="https://img.shields.io/badge/Unit%20Economics-0ea5e9?style=for-the-badge" alt="Unit Economics"/>
-  <img src="https://img.shields.io/badge/Roadmapping-8B5CF6?style=for-the-badge" alt="Roadmapping"/>
-  <img src="https://img.shields.io/badge/PRD%20%2F%20ADRs-0ea5e9?style=for-the-badge" alt="PRD / ADRs"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F" alt="Miro"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
 
 <p align="center"><sub>Quality</sub></p>
@@ -205,7 +205,7 @@ I understand backend, frontend and infrastructure not in theory — I've built t
 <h2 align="center">FOR HACKATHON TEAMS</h2>
 
 <p align="center">
-Looking for a team <b>primarily as a product manager</b> — I own vision, metrics and priorities, and I can also close backend/frontend/infra myself when it's crunch time. Also open to a <b>fullstack developer</b> role (backend or frontend).
+Looking for a team <b>primarily as a product manager</b> — I own vision, metrics and priorities. If the team needs extra hands, I'll <b>back it up with engineering</b> (backend, frontend or infra).
 </p>
 
 <p align="center">
@@ -214,7 +214,7 @@ Looking for a team <b>primarily as a product manager</b> — I own vision, metri
 </p>
 
 - **What I bring as a PM:** I turn a raw idea into a crisp scope and a demo plan, cut the noise, and keep the focus on what the judges will actually reward.
-- **I can also own the tech:** LLM features (OpenAI / Claude), Telegram bots & WebApps, a FastAPI backend, deploy and CI — running by hour 6.
+- **I understand engineering** and speak the team's language: LLM features (OpenAI / Claude), Telegram bots & WebApps, a FastAPI backend, deploy and CI — I can close it hands-on if needed.
 - **Proof I finish:** a distributed VPN platform (5 services, deployed, tested on a real phone) and a production funnel bot (tests, CI).
 - **Availability:** Volgograd (MSK), remote-friendly, async-OK across timezones, weekends free.
 - **How to reach me:** DM me your hackathon and the role you need filled — I reply fast.

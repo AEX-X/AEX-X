@@ -27,12 +27,12 @@
 
 <p align="center">
 <b>Продакт-менеджер, который сам умеет собрать продукт.</b><br/>
-Понимаю бэкенд, фронтенд и инфраструктуру не в теории — собрал их руками. Технический продакт из Волгограда.
+Знаю бэкенд, фронтенд и инфраструктуру не в теории — собрал их руками. Технический продакт из Волгограда.
 </p>
 
-- **Приоритет — роль продакт-менеджера:** держу видение, метрики и приоритеты и говорю с разработчиками на одном языке. Также **открыт к fullstack-разработке** (бэкенд или фронтенд).
+- **Моя роль по умолчанию — продакт-менеджер:** держу видение, метрики и приоритеты и говорю с командой разработки на одном языке. Роль **бэкенд/fullstack-разработчика беру как запас** — если команде нужны руки.
 - **Самоучка** — примерно за год с нуля собрал **распределённую, устойчивую к цензуре VPN-платформу** (5 сервисов, SSH-оркестрация флота серверов, проверка вплоть до реального телефона) и **продовую Telegram-воронку** с аналитикой конверсии.
-- Понимаю и могу закрыть **бэкенд, фронтенд и инфру** — поэтому как продакт принимаю решения, которые реально реализуемы в срок, а не только на бумаге.
+- **Знаю разработку изнутри** — поэтому как продакт ставлю реалистичные задачи и сроки, режу невыполнимое, а при необходимости могу подстраховать команду кодом.
 - **Продуктовое мышление на практике:** трекинг источников трафика и метрика «клик → заявка», честная приоритизация scope и ADR — записанные причины ключевых решений.
 - **AI — рабочий инструмент:** собираю MVP на OpenAI / Claude API и практикую AI-assisted разработку.
 
@@ -80,11 +80,24 @@
 
 ---
 
-<h2 align="center">СТЕК</h2>
+<h2 align="center">СТЕК И КОМПЕТЕНЦИИ</h2>
 
-<p align="center"><sub>Разбит честно: <b>Основное</b> — на чём уверенно пишу · <b>В тулките</b> — из проектов, которые сейчас упаковываю · <b>Изучаю</b> — куда расту</sub></p>
+<p align="center"><sub>Разбито честно: <b>Основное</b> — на чём уверенно работаю · <b>В тулките</b> — из проектов, которые сейчас упаковываю · <b>Изучаю</b> — куда расту</sub></p>
 
 <p align="center"><b>ОСНОВНОЕ</b></p>
+
+<p align="center"><sub>Продукт</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Product%20Discovery-8B5CF6?style=for-the-badge" alt="Product Discovery"/>
+  <img src="https://img.shields.io/badge/Conversion%20Analytics-0ea5e9?style=for-the-badge" alt="Conversion Analytics"/>
+  <img src="https://img.shields.io/badge/Metrics%20%26%20KPIs-8B5CF6?style=for-the-badge" alt="Metrics & KPIs"/>
+  <img src="https://img.shields.io/badge/Unit%20Economics-0ea5e9?style=for-the-badge" alt="Unit Economics"/>
+  <img src="https://img.shields.io/badge/Roadmapping-8B5CF6?style=for-the-badge" alt="Roadmapping"/>
+  <img src="https://img.shields.io/badge/PRD%20%2F%20ADRs-0ea5e9?style=for-the-badge" alt="PRD / ADRs"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F" alt="Miro"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+</p>
 
 <p align="center"><sub>Бэкенд</sub></p>
 <p align="center">
@@ -132,19 +145,6 @@
   <img src="https://img.shields.io/badge/HAProxy-8B5CF6?style=for-the-badge" alt="HAProxy"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge" alt="Makefile"/>
-</p>
-
-<p align="center"><sub>Продукт</sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Product%20Discovery-8B5CF6?style=for-the-badge" alt="Product Discovery"/>
-  <img src="https://img.shields.io/badge/Conversion%20Analytics-0ea5e9?style=for-the-badge" alt="Conversion Analytics"/>
-  <img src="https://img.shields.io/badge/Metrics%20%26%20KPIs-8B5CF6?style=for-the-badge" alt="Metrics & KPIs"/>
-  <img src="https://img.shields.io/badge/Unit%20Economics-0ea5e9?style=for-the-badge" alt="Unit Economics"/>
-  <img src="https://img.shields.io/badge/Roadmapping-8B5CF6?style=for-the-badge" alt="Roadmapping"/>
-  <img src="https://img.shields.io/badge/PRD%20%2F%20ADRs-0ea5e9?style=for-the-badge" alt="PRD / ADRs"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F" alt="Miro"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
 
 <p align="center"><sub>Качество</sub></p>
@@ -205,7 +205,7 @@
 <h2 align="center">ДЛЯ ХАКАТОН-КОМАНД</h2>
 
 <p align="center">
-Ищу команду <b>в первую очередь как продакт-менеджер</b> — держу видение, метрики и приоритеты и при этом сам могу закрыть бэкенд/фронтенд/инфру, когда горит. Также рассмотрю роль <b>fullstack-разработчика</b> (бэкенд или фронтенд).
+Ищу команду <b>в первую очередь как продакт-менеджер</b> — держу видение, метрики и приоритеты. Если команде нужны руки — <b>подстрахую разработкой</b> (бэкенд, фронтенд или инфра).
 </p>
 
 <p align="center">
@@ -214,7 +214,7 @@
 </p>
 
 - **Что приношу как продакт:** превращаю сырую идею в чёткий scope и demo-план, режу лишнее, держу фокус на том, что реально оценит жюри.
-- **Могу закрыть и технику:** LLM-фичи (OpenAI / Claude), Telegram-боты и WebApp'ы, бэкенд на FastAPI, деплой и CI — рабочее к 6-му часу.
+- **Понимаю разработку** и говорю с командой на одном языке: LLM-фичи (OpenAI / Claude), Telegram-боты и WebApp'ы, бэкенд на FastAPI, деплой и CI — при необходимости закрою руками.
 - **Пруф, что довожу до конца:** распределённая VPN-платформа (5 сервисов, задеплоена, протестирована на реальном телефоне) и продовая воронка (тесты, CI).
 - **Доступность:** Волгоград (MSK), remote-friendly, ок с async и разными таймзонами, выходные свободны.
 - **Как написать:** кинь в Telegram, какой хакатон и какая роль нужна — отвечаю быстро.
