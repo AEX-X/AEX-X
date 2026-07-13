@@ -2,11 +2,11 @@
 <p align="right"><a href="README.md">Русский</a> · <b>English</b></p>
 
 <a href="https://github.com/AEX-302">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0ea5e9&height=210&section=header&text=Svyat%20Savrasov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Engineer%20%C2%B7%20Product%20Builder%20%C2%B7%20Open%20to%20hackathons&descSize=18&descAlignY=58" alt="Svyat Savrasov — Fullstack Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0ea5e9&height=210&section=header&text=Svyat%20Savrasov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Technical%20Product%20Manager%20%C2%B7%20Fullstack%20%C2%B7%20Open%20to%20hackathons&descSize=18&descAlignY=58" alt="Svyat Savrasov — Technical Product Manager"/>
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=820&height=45&lines=Fullstack%20engineer%20with%20a%20product%20brain;Idea%20to%20a%20deployed%20MVP%20%E2%80%94%20solo%20or%20on%20a%20team;Backend%20and%20infra%20are%20my%20default%20lane;Open%20to%20hackathon%20teams%20%E2%80%94%20let's%20build" alt="Idea to a deployed MVP — solo or on a team; open to hackathon teams"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=820&height=45&lines=Technical%20Product%20Manager;A%20PM%20who%20ships%20the%20code%3A%20backend%2C%20frontend%2C%20infra;From%20idea%20and%20metrics%20to%20a%20deployed%20MVP;Open%20to%20hackathon%20teams%20%E2%80%94%20let's%20build" alt="Technical Product Manager who ships the code; open to hackathon teams"/>
 </p>
 
 <p align="center">
@@ -14,27 +14,27 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Based%20in-Volgograd%20(MSK)-0ea5e9?style=flat-square" alt="Location"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Languages-English%20%2F%20Русский-8b5cf6?style=flat-square" alt="Languages"/>
+  <img src="https://img.shields.io/badge/Role-Product%20Manager%20%C2%B7%20Fullstack-8b5cf6?style=flat-square" alt="Role"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Hackathon%20teams-22c55e?style=flat-square" alt="Open to teams"/>
 </p>
 
-<p align="center"><sub><b>Now:</b> leveling up Kubernetes, observability and React/TypeScript · open-sourcing the rest of my projects</sub></p>
+<p align="center"><sub><b>Now:</b> leveling up Kubernetes, observability and system design · open-sourcing the rest of my projects</sub></p>
 
 ---
 
 <h2 align="center">ABOUT</h2>
 
 <p align="center">
-<b>I take an idea to a deployed MVP on my own. On a team, I own the backend and the infrastructure.</b><br/>
-Fullstack engineer with a product brain, based in Volgograd.
+<b>A product manager who can actually build the product.</b><br/>
+I understand backend, frontend and infrastructure not in theory — I've built them by hand. Technical PM based in Volgograd.
 </p>
 
-- **Self-taught** — in about a year, from zero to a **distributed, censorship-resistant VPN platform**: 5 services, an SSH-orchestrated server fleet, verified down to a real phone on a mobile network.
-- I build **end-to-end**: backend, frontend, infra automation, and the product logic that actually makes it convert.
-- **On a team:** my default lane is backend + infra (FastAPI, auth, deploy, CI). Fullstack is my range. I'll happily take the unglamorous glue the demo depends on.
-- Daily tools: **async Python + FastAPI**, Telegram bots & WebApps, **Docker / CI**, **SSH-driven** infra automation.
-- **AI is a working tool:** I build products on OpenAI / Claude APIs and practice AI-assisted development.
+- **Primary role — Product Manager:** I own vision, metrics and priorities, and I speak the same language as the engineers. Also **open to fullstack development** (backend or frontend).
+- **Self-taught** — in about a year, from zero to a **distributed, censorship-resistant VPN platform** (5 services, an SSH-orchestrated server fleet, verified down to a real phone) and a **production Telegram funnel** with conversion analytics.
+- I understand and can own **backend, frontend and infra** — so as a PM I make calls that are actually shippable on time, not just on paper.
+- **Product thinking in practice:** traffic-source tracking and a click→application metric, honest scope prioritization, and ADRs — the reasons behind the key decisions written down.
+- **AI is a working tool:** I build MVPs on OpenAI / Claude APIs and practice AI-assisted development.
 
 ---
 
@@ -82,7 +82,7 @@ Fullstack engineer with a product brain, based in Volgograd.
 
 <h2 align="center">TECH STACK</h2>
 
-<p align="center"><sub>Split honestly: <b>Core</b> — what I write and deploy daily · <b>In my toolkit</b> — from projects I'm open-sourcing · <b>Learning</b> — where I'm growing</sub></p>
+<p align="center"><sub>Split honestly: <b>Core</b> — what I confidently build with · <b>In my toolkit</b> — from projects I'm open-sourcing · <b>Learning</b> — where I'm growing</sub></p>
 
 <p align="center"><b>CORE</b></p>
 
@@ -110,6 +110,9 @@ Fullstack engineer with a product brain, based in Volgograd.
 
 <p align="center"><sub>Frontend</sub></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
@@ -133,10 +136,12 @@ Fullstack engineer with a product brain, based in Volgograd.
 
 <p align="center"><sub>Product</sub></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Product%20Discovery-8B5CF6?style=for-the-badge" alt="Product Discovery"/>
   <img src="https://img.shields.io/badge/Conversion%20Analytics-0ea5e9?style=for-the-badge" alt="Conversion Analytics"/>
   <img src="https://img.shields.io/badge/Metrics%20%26%20KPIs-8B5CF6?style=for-the-badge" alt="Metrics & KPIs"/>
-  <img src="https://img.shields.io/badge/ADRs-0ea5e9?style=for-the-badge" alt="ADRs"/>
+  <img src="https://img.shields.io/badge/Unit%20Economics-0ea5e9?style=for-the-badge" alt="Unit Economics"/>
   <img src="https://img.shields.io/badge/Roadmapping-8B5CF6?style=for-the-badge" alt="Roadmapping"/>
+  <img src="https://img.shields.io/badge/PRD%20%2F%20ADRs-0ea5e9?style=for-the-badge" alt="PRD / ADRs"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F" alt="Miro"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
@@ -173,10 +178,8 @@ Fullstack engineer with a product brain, based in Volgograd.
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Observability-8B5CF6?style=flat-square" alt="Observability"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/RAG%20%2F%20embeddings-0ea5e9?style=flat-square" alt="RAG / embeddings"/>
+  <img src="https://img.shields.io/badge/System%20Design-0ea5e9?style=flat-square" alt="System Design"/>
+  <img src="https://img.shields.io/badge/RAG%20%2F%20embeddings-8B5CF6?style=flat-square" alt="RAG / embeddings"/>
 </p>
 
 ---
@@ -202,10 +205,16 @@ Fullstack engineer with a product brain, based in Volgograd.
 <h2 align="center">FOR HACKATHON TEAMS</h2>
 
 <p align="center">
-Looking for a team. I own <b>backend + infra</b> (auth, API, deploy, CI) — running by hour 6 so the team builds product, not plumbing. If needed, I carry the whole MVP solo.
+Looking for a team <b>primarily as a product manager</b> — I own vision, metrics and priorities, and I can also close backend/frontend/infra myself when it's crunch time. Also open to a <b>fullstack developer</b> role (backend or frontend).
 </p>
 
-- **Bonus weapons:** LLM features (OpenAI / Claude) and Telegram bots & WebApps — fast paths to something judges can touch.
+<p align="center">
+  <img src="https://img.shields.io/badge/1-Product%20Manager%20(technical)-8b5cf6?style=for-the-badge" alt="Priority 1 — Product Manager"/>
+  <img src="https://img.shields.io/badge/2-Fullstack%20%2F%20Backend%20%2F%20Frontend-0ea5e9?style=for-the-badge" alt="Priority 2 — Fullstack"/>
+</p>
+
+- **What I bring as a PM:** I turn a raw idea into a crisp scope and a demo plan, cut the noise, and keep the focus on what the judges will actually reward.
+- **I can also own the tech:** LLM features (OpenAI / Claude), Telegram bots & WebApps, a FastAPI backend, deploy and CI — running by hour 6.
 - **Proof I finish:** a distributed VPN platform (5 services, deployed, tested on a real phone) and a production funnel bot (tests, CI).
 - **Availability:** Volgograd (MSK), remote-friendly, async-OK across timezones, weekends free.
 - **How to reach me:** DM me your hackathon and the role you need filled — I reply fast.

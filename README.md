@@ -2,11 +2,11 @@
 <p align="right"><b>Русский</b> · <a href="README.en.md">English</a></p>
 
 <a href="https://github.com/AEX-302">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0ea5e9&height=210&section=header&text=Svyat%20Savrasov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Engineer%20%C2%B7%20Product%20Builder%20%C2%B7%20Open%20to%20hackathons&descSize=18&descAlignY=58" alt="Svyat Savrasov — Fullstack-инженер"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0ea5e9&height=210&section=header&text=Svyat%20Savrasov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Technical%20Product%20Manager%20%C2%B7%20Fullstack%20%C2%B7%20Open%20to%20hackathons&descSize=18&descAlignY=58" alt="Svyat Savrasov — Technical Product Manager"/>
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=820&height=45&lines=Fullstack-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%20%D1%81%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%BC%20%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC;%D0%9E%D1%82%20%D0%B8%D0%B4%D0%B5%D0%B8%20%D0%B4%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B5%D0%BF%D0%BB%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20MVP%20%E2%80%94%20%D1%81%D0%BE%D0%BB%D0%BE%20%D0%B8%D0%BB%D0%B8%20%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B5;%D0%91%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4%20%D0%B8%20%D0%B8%D0%BD%D1%84%D1%80%D0%B0%20%E2%80%94%20%D0%B1%D0%B5%D1%80%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B5%D0%B1%D1%8F;%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%20%D0%BA%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D0%BC%20%D0%BD%D0%B0%20%D1%85%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%D0%B0%D1%85%20%E2%80%94%20%D0%B4%D0%B0%D0%B2%D0%B0%D0%B9%20%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D0%BC" alt="От идеи до задеплоенного MVP — соло или в команде; открыт к командам на хакатонах"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=820&height=45&lines=%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80;%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9%20%D1%81%D0%B0%D0%BC%20%D0%BF%D0%B8%D1%88%D0%B5%D1%82%20%D0%BA%D0%BE%D0%B4%3A%20%D0%B1%D1%8D%D0%BA%2C%20%D1%84%D1%80%D0%BE%D0%BD%D1%82%2C%20%D0%B8%D0%BD%D1%84%D1%80%D0%B0;%D0%9E%D1%82%20%D0%B8%D0%B4%D0%B5%D0%B8%20%D0%B8%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%20%E2%80%94%20%D0%B4%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B5%D0%BF%D0%BB%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20MVP;%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%20%D0%BA%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D0%BC%20%D0%BD%D0%B0%20%D1%85%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%D0%B0%D1%85" alt="Технический продакт-менеджер, который сам пишет код; открыт к командам на хакатонах"/>
 </p>
 
 <p align="center">
@@ -14,27 +14,27 @@
   &nbsp;
   <img src="https://img.shields.io/badge/%D0%9B%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%20(MSK)-0ea5e9?style=flat-square" alt="Локация"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8-English%20%2F%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-8b5cf6?style=flat-square" alt="Языки"/>
+  <img src="https://img.shields.io/badge/%D0%A0%D0%BE%D0%BB%D1%8C-Product%20Manager%20%C2%B7%20Fullstack-8b5cf6?style=flat-square" alt="Роль"/>
   &nbsp;
   <img src="https://img.shields.io/badge/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%20%D0%BA-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D0%BC%20%D0%BD%D0%B0%20%D1%85%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%D0%B0%D1%85-22c55e?style=flat-square" alt="Открыт к командам"/>
 </p>
 
-<p align="center"><sub><b>Сейчас:</b> качаю Kubernetes, observability и React/TypeScript · упаковываю остальные проекты в портфолио</sub></p>
+<p align="center"><sub><b>Сейчас:</b> качаю Kubernetes, observability и системный дизайн · упаковываю остальные проекты в портфолио</sub></p>
 
 ---
 
 <h2 align="center">О СЕБЕ</h2>
 
 <p align="center">
-<b>Беру идею и довожу её до задеплоенного MVP сам. В команде беру на себя бэкенд и инфраструктуру.</b><br/>
-Fullstack-инженер с продуктовым мышлением, из Волгограда.
+<b>Продакт-менеджер, который сам умеет собрать продукт.</b><br/>
+Понимаю бэкенд, фронтенд и инфраструктуру не в теории — собрал их руками. Технический продакт из Волгограда.
 </p>
 
-- **Самоучка** — примерно за год с нуля собрал **распределённую, устойчивую к цензуре VPN-платформу**: 5 сервисов, SSH-оркестрация флота серверов, проверка вплоть до реального телефона в мобильной сети.
-- Строю **end-to-end**: бэкенд, фронтенд, инфра-автоматизация и продуктовая логика, которая заставляет продукт конвертить.
-- **В команде:** моя зона по умолчанию — бэкенд + инфра (FastAPI, auth, деплой, CI). Фуллстек — как запас. Спокойно беру неблагодарную «склейку», на которой держится демо.
-- Инструменты каждый день: **async Python + FastAPI**, Telegram-боты и WebApp'ы, **Docker / CI**, автоматизация через **SSH**.
-- **AI — рабочий инструмент:** собираю продукты на OpenAI / Claude API и практикую AI-assisted разработку.
+- **Приоритет — роль продакт-менеджера:** держу видение, метрики и приоритеты и говорю с разработчиками на одном языке. Также **открыт к fullstack-разработке** (бэкенд или фронтенд).
+- **Самоучка** — примерно за год с нуля собрал **распределённую, устойчивую к цензуре VPN-платформу** (5 сервисов, SSH-оркестрация флота серверов, проверка вплоть до реального телефона) и **продовую Telegram-воронку** с аналитикой конверсии.
+- Понимаю и могу закрыть **бэкенд, фронтенд и инфру** — поэтому как продакт принимаю решения, которые реально реализуемы в срок, а не только на бумаге.
+- **Продуктовое мышление на практике:** трекинг источников трафика и метрика «клик → заявка», честная приоритизация scope и ADR — записанные причины ключевых решений.
+- **AI — рабочий инструмент:** собираю MVP на OpenAI / Claude API и практикую AI-assisted разработку.
 
 ---
 
@@ -62,7 +62,7 @@ Fullstack-инженер с продуктовым мышлением, из Во
 <td width="50%" valign="top">
 <h3 align="center">Funnel Bot</h3>
 <p align="center"><b>Продовая Telegram-воронка продаж</b></p>
-<p>Трекинг источника трафика, заявка на конечном автомате (FSM) за 6 шагов, админ-панель прямо в чате, аналитика конверсии «клик → заявка» по каналам и автодожим через 1 ч и 24 ч. Слоёная архитектура, тесты, CI, ADR — записаны причины ключевых решений.</p>
+<p>Трекинг источника трафика, заявка на конечном автомате (FSM) за 6 шагов, админ-панель прямо в чате, аналитика конверсии «клик → заявка» по каналам и автодожим через 1 ч и 24 ч. Слоёная архитектура, тесты, CI, ADR — записаны причины решений.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Aiogram%203-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Aiogram 3"/>
@@ -82,7 +82,7 @@ Fullstack-инженер с продуктовым мышлением, из Во
 
 <h2 align="center">СТЕК</h2>
 
-<p align="center"><sub>Разбит честно: <b>Основное</b> — на чём пишу и деплою каждый день · <b>В тулките</b> — из проектов, которые сейчас упаковываю · <b>Изучаю</b> — куда расту</sub></p>
+<p align="center"><sub>Разбит честно: <b>Основное</b> — на чём уверенно пишу · <b>В тулките</b> — из проектов, которые сейчас упаковываю · <b>Изучаю</b> — куда расту</sub></p>
 
 <p align="center"><b>ОСНОВНОЕ</b></p>
 
@@ -110,6 +110,9 @@ Fullstack-инженер с продуктовым мышлением, из Во
 
 <p align="center"><sub>Фронтенд</sub></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
@@ -133,10 +136,12 @@ Fullstack-инженер с продуктовым мышлением, из Во
 
 <p align="center"><sub>Продукт</sub></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Product%20Discovery-8B5CF6?style=for-the-badge" alt="Product Discovery"/>
   <img src="https://img.shields.io/badge/Conversion%20Analytics-0ea5e9?style=for-the-badge" alt="Conversion Analytics"/>
   <img src="https://img.shields.io/badge/Metrics%20%26%20KPIs-8B5CF6?style=for-the-badge" alt="Metrics & KPIs"/>
-  <img src="https://img.shields.io/badge/ADRs-0ea5e9?style=for-the-badge" alt="ADRs"/>
+  <img src="https://img.shields.io/badge/Unit%20Economics-0ea5e9?style=for-the-badge" alt="Unit Economics"/>
   <img src="https://img.shields.io/badge/Roadmapping-8B5CF6?style=for-the-badge" alt="Roadmapping"/>
+  <img src="https://img.shields.io/badge/PRD%20%2F%20ADRs-0ea5e9?style=for-the-badge" alt="PRD / ADRs"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F" alt="Miro"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
@@ -173,10 +178,8 @@ Fullstack-инженер с продуктовым мышлением, из Во
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Observability-8B5CF6?style=flat-square" alt="Observability"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/RAG%20%2F%20embeddings-0ea5e9?style=flat-square" alt="RAG / embeddings"/>
+  <img src="https://img.shields.io/badge/System%20Design-0ea5e9?style=flat-square" alt="System Design"/>
+  <img src="https://img.shields.io/badge/RAG%20%2F%20embeddings-8B5CF6?style=flat-square" alt="RAG / embeddings"/>
 </p>
 
 ---
@@ -202,10 +205,16 @@ Fullstack-инженер с продуктовым мышлением, из Во
 <h2 align="center">ДЛЯ ХАКАТОН-КОМАНД</h2>
 
 <p align="center">
-Ищу команду. Беру на себя <b>бэкенд + инфру</b> (auth, API, деплой, CI) — рабочее к 6-му часу, чтобы команда пилила продукт, а не сантехнику. Если надо — тяну весь MVP соло.
+Ищу команду <b>в первую очередь как продакт-менеджер</b> — держу видение, метрики и приоритеты и при этом сам могу закрыть бэкенд/фронтенд/инфру, когда горит. Также рассмотрю роль <b>fullstack-разработчика</b> (бэкенд или фронтенд).
 </p>
 
-- **Бонусные козыри:** LLM-фичи (OpenAI / Claude) и Telegram-боты/WebApp'ы — быстрый путь к тому, что жюри может потрогать.
+<p align="center">
+  <img src="https://img.shields.io/badge/1-Product%20Manager%20(technical)-8b5cf6?style=for-the-badge" alt="Приоритет 1 — Product Manager"/>
+  <img src="https://img.shields.io/badge/2-Fullstack%20%2F%20Backend%20%2F%20Frontend-0ea5e9?style=for-the-badge" alt="Приоритет 2 — Fullstack"/>
+</p>
+
+- **Что приношу как продакт:** превращаю сырую идею в чёткий scope и demo-план, режу лишнее, держу фокус на том, что реально оценит жюри.
+- **Могу закрыть и технику:** LLM-фичи (OpenAI / Claude), Telegram-боты и WebApp'ы, бэкенд на FastAPI, деплой и CI — рабочее к 6-му часу.
 - **Пруф, что довожу до конца:** распределённая VPN-платформа (5 сервисов, задеплоена, протестирована на реальном телефоне) и продовая воронка (тесты, CI).
 - **Доступность:** Волгоград (MSK), remote-friendly, ок с async и разными таймзонами, выходные свободны.
 - **Как написать:** кинь в Telegram, какой хакатон и какая роль нужна — отвечаю быстро.
