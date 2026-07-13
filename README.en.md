@@ -86,14 +86,34 @@ I know backend, frontend and infrastructure not in theory — I've built them by
 
 <p align="center"><b>CORE</b></p>
 
-<p align="center"><sub>Product</sub></p>
+<p align="center"><sub>Product · metrics &amp; analytics</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/North%20Star%20Metric-8B5CF6?style=for-the-badge" alt="North Star Metric"/>
+  <img src="https://img.shields.io/badge/AARRR%20(Pirate%20Metrics)-0ea5e9?style=for-the-badge" alt="AARRR / Pirate Metrics"/>
+  <img src="https://img.shields.io/badge/Funnel%20Analysis-8B5CF6?style=for-the-badge" alt="Funnel Analysis"/>
+  <img src="https://img.shields.io/badge/Retention%20%26%20Cohorts-0ea5e9?style=for-the-badge" alt="Retention & Cohorts"/>
+  <img src="https://img.shields.io/badge/Conversion%20Analytics-8B5CF6?style=for-the-badge" alt="Conversion Analytics"/>
+  <img src="https://img.shields.io/badge/Unit%20Economics-0ea5e9?style=for-the-badge" alt="Unit Economics"/>
+  <img src="https://img.shields.io/badge/Metrics%20%26%20KPIs-8B5CF6?style=for-the-badge" alt="Metrics & KPIs"/>
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/>
+</p>
+
+<p align="center"><sub>Product · discovery &amp; strategy</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Product%20Discovery-8B5CF6?style=for-the-badge" alt="Product Discovery"/>
-  <img src="https://img.shields.io/badge/Conversion%20Analytics-0ea5e9?style=for-the-badge" alt="Conversion Analytics"/>
-  <img src="https://img.shields.io/badge/Metrics%20%26%20KPIs-8B5CF6?style=for-the-badge" alt="Metrics & KPIs"/>
-  <img src="https://img.shields.io/badge/Unit%20Economics-0ea5e9?style=for-the-badge" alt="Unit Economics"/>
-  <img src="https://img.shields.io/badge/Roadmapping-8B5CF6?style=for-the-badge" alt="Roadmapping"/>
-  <img src="https://img.shields.io/badge/PRD%20%2F%20ADRs-0ea5e9?style=for-the-badge" alt="PRD / ADRs"/>
+  <img src="https://img.shields.io/badge/Jobs--to--be--Done-0ea5e9?style=for-the-badge" alt="Jobs-to-be-Done"/>
+  <img src="https://img.shields.io/badge/Customer%20Journey-8B5CF6?style=for-the-badge" alt="Customer Journey Map"/>
+  <img src="https://img.shields.io/badge/Roadmapping-0ea5e9?style=for-the-badge" alt="Roadmapping"/>
+  <img src="https://img.shields.io/badge/PRD%20%2F%20ADRs-8B5CF6?style=for-the-badge" alt="PRD / ADRs"/>
+</p>
+
+<p align="center"><sub>Process &amp; tools</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-0ea5e9?style=for-the-badge" alt="Agile"/>
+  <img src="https://img.shields.io/badge/Scrum-8B5CF6?style=for-the-badge" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/Kanban-0ea5e9?style=for-the-badge" alt="Kanban"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F" alt="Miro"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
@@ -160,6 +180,16 @@ I know backend, frontend and infrastructure not in theory — I've built them by
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+<p align="center"><sub>AI product</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM%20Product%20Features-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Product Features"/>
+  <img src="https://img.shields.io/badge/Function%20Calling-8B5CF6?style=for-the-badge" alt="Function calling"/>
+  <img src="https://img.shields.io/badge/Structured%20Outputs-0ea5e9?style=for-the-badge" alt="Structured outputs"/>
+  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0ea5e9?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/AI--assisted%20Dev-412991?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI-assisted Dev"/>
+</p>
+
 <p align="center"><b>IN MY TOOLKIT</b> <sub>— from projects I'm open-sourcing</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
@@ -181,7 +211,6 @@ I know backend, frontend and infrastructure not in theory — I've built them by
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Observability-8B5CF6?style=flat-square" alt="Observability"/>
   <img src="https://img.shields.io/badge/System%20Design-0ea5e9?style=flat-square" alt="System Design"/>
-  <img src="https://img.shields.io/badge/RAG%20%2F%20embeddings-8B5CF6?style=flat-square" alt="RAG / embeddings"/>
 </p>
 
 ---
