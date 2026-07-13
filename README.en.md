@@ -92,9 +92,8 @@ I know backend, frontend and infrastructure not in theory — I've built them by
   <img src="https://img.shields.io/badge/AARRR%20(Pirate%20Metrics)-0ea5e9?style=for-the-badge" alt="AARRR / Pirate Metrics"/>
   <img src="https://img.shields.io/badge/Funnel%20Analysis-8B5CF6?style=for-the-badge" alt="Funnel Analysis"/>
   <img src="https://img.shields.io/badge/Retention%20%26%20Cohorts-0ea5e9?style=for-the-badge" alt="Retention & Cohorts"/>
-  <img src="https://img.shields.io/badge/Conversion%20Analytics-8B5CF6?style=for-the-badge" alt="Conversion Analytics"/>
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-8B5CF6?style=for-the-badge" alt="A/B Testing"/>
   <img src="https://img.shields.io/badge/Unit%20Economics-0ea5e9?style=for-the-badge" alt="Unit Economics"/>
-  <img src="https://img.shields.io/badge/Metrics%20%26%20KPIs-8B5CF6?style=for-the-badge" alt="Metrics & KPIs"/>
   <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/>
 </p>
 
@@ -102,14 +101,16 @@ I know backend, frontend and infrastructure not in theory — I've built them by
 <p align="center">
   <img src="https://img.shields.io/badge/Product%20Discovery-8B5CF6?style=for-the-badge" alt="Product Discovery"/>
   <img src="https://img.shields.io/badge/Jobs--to--be--Done-0ea5e9?style=for-the-badge" alt="Jobs-to-be-Done"/>
-  <img src="https://img.shields.io/badge/Customer%20Journey-8B5CF6?style=for-the-badge" alt="Customer Journey Map"/>
-  <img src="https://img.shields.io/badge/Roadmapping-0ea5e9?style=for-the-badge" alt="Roadmapping"/>
-  <img src="https://img.shields.io/badge/PRD%20%2F%20ADRs-8B5CF6?style=for-the-badge" alt="PRD / ADRs"/>
+  <img src="https://img.shields.io/badge/Prioritization%20(RICE)-8B5CF6?style=for-the-badge" alt="Prioritization (RICE)"/>
+  <img src="https://img.shields.io/badge/Customer%20Journey-0ea5e9?style=for-the-badge" alt="Customer Journey Map"/>
+  <img src="https://img.shields.io/badge/Competitive%20Analysis-8B5CF6?style=for-the-badge" alt="Competitive Analysis"/>
+  <img src="https://img.shields.io/badge/OKR-0ea5e9?style=for-the-badge" alt="OKR"/>
+  <img src="https://img.shields.io/badge/Roadmapping-8B5CF6?style=for-the-badge" alt="Roadmapping"/>
+  <img src="https://img.shields.io/badge/PRD%20%2F%20ADRs-0ea5e9?style=for-the-badge" alt="PRD / ADRs"/>
 </p>
 
 <p align="center"><sub>Process &amp; tools</sub></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Agile-0ea5e9?style=for-the-badge" alt="Agile"/>
   <img src="https://img.shields.io/badge/Scrum-8B5CF6?style=for-the-badge" alt="Scrum"/>
   <img src="https://img.shields.io/badge/Kanban-0ea5e9?style=for-the-badge" alt="Kanban"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
@@ -127,13 +128,9 @@ I know backend, frontend and infrastructure not in theory — I've built them by
   <img src="https://img.shields.io/badge/Aiogram%203-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
-  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge" alt="Uvicorn"/>
-  <img src="https://img.shields.io/badge/APScheduler-1BA39C?style=for-the-badge" alt="APScheduler"/>
   <img src="https://img.shields.io/badge/asyncssh-1BA39C?style=for-the-badge" alt="asyncssh"/>
-  <img src="https://img.shields.io/badge/httpx-2A6DB2?style=for-the-badge" alt="httpx"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" alt="REST API"/>
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/>
 </p>
 
 <p align="center"><sub>Data</sub></p>
@@ -149,45 +146,40 @@ I know backend, frontend and infrastructure not in theory — I've built them by
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query"/>
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" alt="Zustand"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/globe.gl-8B5CF6?style=for-the-badge" alt="globe.gl"/>
   <img src="https://img.shields.io/badge/Telegram%20Mini%20Apps-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Mini Apps"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 <p align="center"><sub>Infra / DevOps</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
   <img src="https://img.shields.io/badge/HAProxy-8B5CF6?style=for-the-badge" alt="HAProxy"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge" alt="Makefile"/>
 </p>
 
 <p align="center"><sub>Quality</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
-  <img src="https://img.shields.io/badge/pytest--asyncio-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest-asyncio"/>
-  <img src="https://img.shields.io/badge/coverage-4B9BE3?style=for-the-badge" alt="coverage"/>
   <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff"/>
   <img src="https://img.shields.io/badge/mypy-2A6DB2?style=for-the-badge" alt="mypy"/>
   <img src="https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge&logo=precommit&logoColor=black" alt="pre-commit"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 <p align="center"><sub>AI product</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/LLM%20Product%20Features-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Product Features"/>
-  <img src="https://img.shields.io/badge/Function%20Calling-8B5CF6?style=for-the-badge" alt="Function calling"/>
-  <img src="https://img.shields.io/badge/Structured%20Outputs-0ea5e9?style=for-the-badge" alt="Structured outputs"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Function%20Calling%20%2F%20Structured%20Outputs-0ea5e9?style=for-the-badge" alt="Function Calling / Structured Outputs"/>
   <img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Embeddings%20%2F%20Vector%20DB-0ea5e9?style=for-the-badge" alt="Embeddings / Vector DB"/>
+  <img src="https://img.shields.io/badge/LLM%20Evals-8B5CF6?style=for-the-badge" alt="LLM Evals"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-0ea5e9?style=for-the-badge" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/AI--assisted%20Dev-412991?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI-assisted Dev"/>
 </p>
 
 <p align="center"><b>IN MY TOOLKIT</b> <sub>— from projects I'm open-sourcing</sub></p>
@@ -203,7 +195,6 @@ I know backend, frontend and infrastructure not in theory — I've built them by
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
   <img src="https://img.shields.io/badge/Telethon-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telethon"/>
   <img src="https://img.shields.io/badge/Yandex%20Cloud-5282FF?style=flat-square&logo=yandexcloud&logoColor=white" alt="Yandex Cloud"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets API"/>
 </p>
 
 <p align="center"><b>LEARNING</b></p>
@@ -211,6 +202,7 @@ I know backend, frontend and infrastructure not in theory — I've built them by
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Observability-8B5CF6?style=flat-square" alt="Observability"/>
   <img src="https://img.shields.io/badge/System%20Design-0ea5e9?style=flat-square" alt="System Design"/>
+  <img src="https://img.shields.io/badge/User%20Research-8B5CF6?style=flat-square" alt="User Research"/>
 </p>
 
 ---
