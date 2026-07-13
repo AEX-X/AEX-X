@@ -34,7 +34,7 @@ I know backend, frontend and infrastructure not in theory — I've built them by
 - **Self-taught** — in about a year, from zero to a **distributed, censorship-resistant VPN platform** (5 services, an SSH-orchestrated server fleet, verified down to a real phone) and a **production Telegram funnel** with conversion analytics.
 - **I know engineering from the inside** — so as a PM I set realistic scope and timelines, cut what can't ship, and can back the team up with code when needed.
 - **Product thinking in practice:** traffic-source tracking and a click→application metric, honest scope prioritization, and ADRs — the reasons behind the key decisions written down.
-- **AI is a working tool:** I build MVPs on OpenAI / Claude APIs and practice AI-assisted development.
+- **AI is an amplifier, not an autopilot:** I know how to work with OpenAI / Claude as an assistant — speeding up prototyping, sanity-checking options, spotting weak points — while the decisions, architecture and code stay mine. AI helps me work; it doesn't work for me.
 
 ---
 
