@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AEX-302&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F&color=8b5cf6&style=flat-square" alt="Просмотры профиля"/>
+  <img src="https://komarev.com/ghpvc/?username=AEX-302&label=Profile%20views&color=8b5cf6&style=flat-square" alt="Просмотры профиля"/>
   &nbsp;
   <img src="https://img.shields.io/badge/%D0%9B%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%20(MSK)-0ea5e9?style=flat-square" alt="Локация"/>
   &nbsp;
