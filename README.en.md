@@ -217,11 +217,9 @@ I know backend, frontend and infrastructure not in theory — I've built them by
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AEX-X&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=0ea5e9&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity graph"/>
 </p>
 
-<!-- Contribution snake appears here once GitHub Actions is enabled for the account and the "Generate Contribution Snake" workflow runs.
 <p align="center">
   <img src="https://raw.githubusercontent.com/AEX-X/AEX-X/output/github-snake-dark.svg" alt="Contribution snake"/>
 </p>
--->
 
 ---
 

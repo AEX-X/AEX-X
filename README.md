@@ -217,11 +217,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AEX-X&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=0ea5e9&area=true&hide_border=false&custom_title=%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%86%D0%B8%D0%B9" alt="График контрибуций"/>
 </p>
 
-<!-- Змейка контрибуций появится здесь, как только для аккаунта включат GitHub Actions и отработает воркфлоу "Generate Contribution Snake".
 <p align="center">
   <img src="https://raw.githubusercontent.com/AEX-X/AEX-X/output/github-snake-dark.svg" alt="Contribution snake"/>
 </p>
--->
 
 ---
 
