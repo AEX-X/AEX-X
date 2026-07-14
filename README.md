@@ -41,7 +41,7 @@
 <h2 align="center">КЛЮЧЕВЫЕ ПРОЕКТЫ</h2>
 
 <table>
-<tr>
+<tr> 
 <td width="50%" valign="top">
 <h3 align="center">HAPP VPN</h3>
 <p align="center"><b>Распределённая, устойчивая к цензуре VPN-платформа</b></p>
