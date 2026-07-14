@@ -247,3 +247,4 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:4c1d95&height=120&section=footer" alt="footer"/>
+
