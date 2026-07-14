@@ -1,7 +1,7 @@
-<!-- Profile README for github.com/AEX-302  ·  dark · maximalist · RU-first bilingual · no emoji -->
+<!-- Profile README for github.com/AEX-X  ·  dark · maximalist · RU-first bilingual · no emoji -->
 <p align="right"><b>Русский</b> · <a href="README.en.md">English</a></p>
 
-<a href="https://github.com/AEX-302">
+<a href="https://github.com/AEX-X">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0ea5e9&height=210&section=header&text=Svyat%20Savrasov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Technical%20Product%20Manager%20%C2%B7%20Fullstack%20%C2%B7%20Open%20to%20hackathons&descSize=18&descAlignY=58" alt="Svyat Savrasov — Technical Product Manager"/>
 </a>
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AEX-302&label=Profile%20views&color=8b5cf6&style=flat-square" alt="Просмотры профиля"/>
+  <img src="https://komarev.com/ghpvc/?username=AEX-X&label=Profile%20views&color=8b5cf6&style=flat-square" alt="Просмотры профиля"/>
   &nbsp;
   <img src="https://img.shields.io/badge/%D0%9B%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%20(MSK)-0ea5e9?style=flat-square" alt="Локация"/>
   &nbsp;
@@ -55,8 +55,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 <p align="center">
-  <a href="https://aex-302.github.io/happ-vpn-platform/#servers"><img src="https://img.shields.io/badge/%D0%94%D0%B5%D0%BC%D0%BE-3D--%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81-0ea5e9?style=for-the-badge" alt="Демо"/></a>
-  <a href="https://github.com/AEX-302/happ-vpn-platform"><img src="https://img.shields.io/badge/%D0%9A%D0%BE%D0%B4-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Код"/></a>
+  <a href="https://aex-x.github.io/happ-vpn-platform/#servers"><img src="https://img.shields.io/badge/%D0%94%D0%B5%D0%BC%D0%BE-3D--%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81-0ea5e9?style=for-the-badge" alt="Демо"/></a>
+  <a href="https://github.com/AEX-X/happ-vpn-platform"><img src="https://img.shields.io/badge/%D0%9A%D0%BE%D0%B4-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Код"/></a>
 </p>
 </td>
 <td width="50%" valign="top">
@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/CI-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI"/>
 </p>
 <p align="center">
-  <a href="https://github.com/AEX-302/car-russification-funnel-bot"><img src="https://img.shields.io/badge/%D0%9A%D0%BE%D0%B4-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Код"/></a>
+  <a href="https://github.com/AEX-X/car-russification-funnel-bot"><img src="https://img.shields.io/badge/%D0%9A%D0%BE%D0%B4-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Код"/></a>
 </p>
 </td>
 </tr>
@@ -210,16 +210,16 @@
 <h2 align="center">GITHUB-АНАЛИТИКА</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEX-302&layout=compact&langs_count=8&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Топ языков" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEX-X&layout=compact&langs_count=8&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Топ языков" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AEX-302&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=0ea5e9&area=true&hide_border=false&custom_title=%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%86%D0%B8%D0%B9" alt="График контрибуций"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AEX-X&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=0ea5e9&area=true&hide_border=false&custom_title=%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%20%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%86%D0%B8%D0%B9" alt="График контрибуций"/>
 </p>
 
 <!-- Змейка контрибуций появится здесь, как только для аккаунта включат GitHub Actions и отработает воркфлоу "Generate Contribution Snake".
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AEX-302/AEX-302/output/github-snake-dark.svg" alt="Contribution snake"/>
+  <img src="https://raw.githubusercontent.com/AEX-X/AEX-X/output/github-snake-dark.svg" alt="Contribution snake"/>
 </p>
 -->
 
@@ -245,7 +245,7 @@
 <p align="center">
   <a href="https://t.me/Antipov302"><img src="https://img.shields.io/badge/Telegram-%40Antipov302-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:innadark46@gmail.com"><img src="https://img.shields.io/badge/Email-innadark46%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/AEX-302"><img src="https://img.shields.io/badge/GitHub-AEX--302-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/AEX-X"><img src="https://img.shields.io/badge/GitHub-AEX--X-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:4c1d95&height=120&section=footer" alt="footer"/>

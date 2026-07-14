@@ -1,7 +1,7 @@
 <!-- English version — the profile page shows README.md (Russian) by default -->
 <p align="right"><a href="README.md">Русский</a> · <b>English</b></p>
 
-<a href="https://github.com/AEX-302">
+<a href="https://github.com/AEX-X">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0ea5e9&height=210&section=header&text=Svyat%20Savrasov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Technical%20Product%20Manager%20%C2%B7%20Fullstack%20%C2%B7%20Open%20to%20hackathons&descSize=18&descAlignY=58" alt="Svyat Savrasov — Technical Product Manager"/>
 </a>
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AEX-302&label=Profile+views&color=8b5cf6&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AEX-X&label=Profile+views&color=8b5cf6&style=flat-square" alt="Profile views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Based%20in-Volgograd%20(MSK)-0ea5e9?style=flat-square" alt="Location"/>
   &nbsp;
@@ -55,8 +55,8 @@ I know backend, frontend and infrastructure not in theory — I've built them by
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 <p align="center">
-  <a href="https://aex-302.github.io/happ-vpn-platform/#servers"><img src="https://img.shields.io/badge/Demo-3D--globe-0ea5e9?style=for-the-badge" alt="Demo"/></a>
-  <a href="https://github.com/AEX-302/happ-vpn-platform"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+  <a href="https://aex-x.github.io/happ-vpn-platform/#servers"><img src="https://img.shields.io/badge/Demo-3D--globe-0ea5e9?style=for-the-badge" alt="Demo"/></a>
+  <a href="https://github.com/AEX-X/happ-vpn-platform"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 </p>
 </td>
 <td width="50%" valign="top">
@@ -72,7 +72,7 @@ I know backend, frontend and infrastructure not in theory — I've built them by
   <img src="https://img.shields.io/badge/CI-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI"/>
 </p>
 <p align="center">
-  <a href="https://github.com/AEX-302/car-russification-funnel-bot"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+  <a href="https://github.com/AEX-X/car-russification-funnel-bot"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 </p>
 </td>
 </tr>
@@ -210,16 +210,16 @@ I know backend, frontend and infrastructure not in theory — I've built them by
 <h2 align="center">GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEX-302&layout=compact&langs_count=8&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEX-X&layout=compact&langs_count=8&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Top languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AEX-302&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=0ea5e9&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AEX-X&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=0ea5e9&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity graph"/>
 </p>
 
 <!-- Contribution snake appears here once GitHub Actions is enabled for the account and the "Generate Contribution Snake" workflow runs.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AEX-302/AEX-302/output/github-snake-dark.svg" alt="Contribution snake"/>
+  <img src="https://raw.githubusercontent.com/AEX-X/AEX-X/output/github-snake-dark.svg" alt="Contribution snake"/>
 </p>
 -->
 
@@ -245,7 +245,7 @@ Looking for a team <b>primarily as a product manager</b> — I own vision, metri
 <p align="center">
   <a href="https://t.me/Antipov302"><img src="https://img.shields.io/badge/Telegram-%40Antipov302-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:innadark46@gmail.com"><img src="https://img.shields.io/badge/Email-innadark46%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/AEX-302"><img src="https://img.shields.io/badge/GitHub-AEX--302-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/AEX-X"><img src="https://img.shields.io/badge/GitHub-AEX--X-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:4c1d95&height=120&section=footer" alt="footer"/>
