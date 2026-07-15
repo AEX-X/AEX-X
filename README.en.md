@@ -207,6 +207,36 @@ I know backend, frontend and infrastructure not in theory — I've built them by
 
 ---
 
+<h2 align="center">HOW I RUN PRODUCT</h2>
+
+<p align="center">
+Not "shipped random features" — a closed loop: from a real problem to a working MVP and a metric, and back to insights. Every step has a concrete tool.
+</p>
+
+```mermaid
+flowchart LR
+    A["Problem<br/>or signal"] --> B["Discovery<br/>JTBD · interviews · data"]
+    B --> C["Prioritization<br/>RICE · ICE"]
+    C --> D["Scope + PRD<br/>goal · non-goals · criteria"]
+    D --> E["MVP<br/>build · deploy · CI"]
+    E --> F["Metrics<br/>North Star · funnel · retention"]
+    F --> G["Insights<br/>A/B · learnings"]
+    G -->|learn and repeat| A
+```
+
+| Stage | What I do | Tools |
+|---|---|---|
+| **Discovery** | find the real pain, not an imagined one | JTBD · interviews · analytics |
+| **Prioritization** | do what gives the most return per effort | RICE · ICE |
+| **Scope + PRD** | so the team reads the task the same way | goal · non-goals · success criteria · ADR |
+| **MVP** | a working version, not slides | build · deploy · CI |
+| **Metrics** | check whether the change worked | North Star · funnel · retention · unit economics |
+| **Insights + A/B** | decide with data, not gut feel | experiments → and the loop repeats |
+
+<p align="center"><sub>This is how both are built — the <b>funnel bot</b> (source tracking, conversion analytics, ADRs) and <b>HAPP VPN</b> (5 services, tests, CI).</sub></p>
+
+---
+
 <h2 align="center">GITHUB ANALYTICS</h2>
 
 <p align="center">
